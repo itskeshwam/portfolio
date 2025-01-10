@@ -1,0 +1,123 @@
+/* Custom styles for the portfolio */
+:root {
+  --neon-text: #0ff;
+  --neon-border: #0ff;
+  --background-dark: #151515;
+  --text-color: #eaeaea;
+  --card-bg: #1c1c1c;
+  --hover-color: #00ffff;
+}
+
+/* General styles */
+body {
+  background-color: var(--background-dark);
+  color: var(--text-color);
+  font-family: 'Courier New', monospace;
+  line-height: 1.6;
+}
+
+/* Grid layouts */
+.skills-grid, .projects-grid, .achievements-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem 0;
+}
+
+/* Project cards */
+.project-card {
+  background: var(--card-bg);
+  border: 1px solid var(--neon-border);
+  padding: 1.5rem;
+  border-radius: 8px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 15px var(--neon-text);
+}
+
+/* Profile section */
+.profile-img {
+  border-radius: 50%;
+  border: 3px solid var(--neon-border);
+  max-width: 250px;
+  margin: 2rem auto;
+  display: block;
+}
+
+/* Buttons */
+.btn {
+  background: transparent;
+  border: 2px solid var(--neon-border);
+  color: var(--neon-text);
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: var(--neon-text);
+  color: var(--background-dark);
+}
+
+/* Form styles */
+.form-input, .form-textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 1rem;
+  background: var(--card-bg);
+  border: 1px solid var(--neon-border);
+  color: var(--text-color);
+  border-radius: 5px;
+}
+
+/* Navigation */
+.nav-link {
+  color: var(--neon-text);
+  text-decoration: none;
+  padding: 5px 10px;
+  transition: all 0.3s ease;
+}
+
+.nav-link:hover {
+  text-shadow: 0 0 10px var(--neon-text);
+}
+
+/* Social links */
+.social-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .projects-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Animation for neon effect */
+@keyframes neon-pulse {
+  0% {
+    text-shadow: 0 0 5px var(--neon-text);
+  }
+  50% {
+    text-shadow: 0 0 20px var(--neon-text);
+  }
+  100% {
+    text-shadow: 0 0 5px var(--neon-text);
+  }
+}
+
+.name-title {
+  animation: neon-pulse 2s infinite;
+}

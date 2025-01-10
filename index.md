@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Personal Portfolio Website
-description: Software Engineer Portfolio
+title: Keshwam's Portfolio
+description: Cybersecurity & Software Development Portfolio
 ---
 
 <div class="intro-header" markdown="1">
 # Keshwam Pandey {.name-title}
-## Software Engineer from India {.subtitle}
+## Cybersecurity & Software Development Student {.subtitle}
 
-[Home](#home){: .nav-link} | [About](#about){: .nav-link} | [Services](#services){: .nav-link} | [Portfolio](#portfolio){: .nav-link} | [Contact](#contact){: .nav-link}
+[Home](#home){: .nav-link} | [About](#about){: .nav-link} | [Skills](#skills){: .nav-link} | [Projects](#projects){: .nav-link} | [Contact](#contact){: .nav-link}
 </div>
 
 * * *
@@ -19,108 +19,136 @@ description: Software Engineer Portfolio
 <div class="profile-container" markdown="1">
 ![Profile Photo](./images/user.jpg){: .profile-img}
 
-Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing my mind and myself which companies can utilize to tell that story and maximize their reach.
+Aspiring cybersecurity professional with a robust foundation in software development and a growing interest in ethical hacking and system security. Experienced in building tools like malware detection systems and fake account predictors using Python and machine learning. Committed to leveraging technical skills and problem-solving abilities to secure systems and mitigate cyber threats.
 
-We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story.
-
-I'm currently freelancing and I'm open to new opportunities. Please feel free to get in touch with me on pandeykeshwam1122@gmail.com and we can explore how I can help.
+I'm currently pursuing my B.Tech in Computer Science and Engineering, focusing on cybersecurity and software development. I'm passionate about creating secure, efficient solutions to complex problems.
 </div>
+
+<div class="education-section" markdown="1">
+### Education
+
+* **🎓 B.Tech CSE (8.1 GPA)**  
+  D Y Patil International University (2022-2026)
+* **🏫 Science (8.5)**  
+  Elpro International School (2021)
+</div>
+</div>
+
+* * *
 
 <div class="skills-section" markdown="1">
-### Professional Journey
+## Technical Skills {#skills}
 
-<div class="info-grid" markdown="1">
-#### Skills {: .section-title}
-* **💻 Software Development**  
-  Designing Software interfaces
-* **🌐 Web Development**  
-  Web app Development
-* **📱 App Development**  
-  Building Android/iOS apps
+<div class="skills-grid" markdown="1">
+### Programming & Development
+- Python, Shell Script, Go, Rust
+- HTML, CSS, JavaScript
+- React, Flask, Django, Node.js
+- Git, Terminal, API Testing
 
-#### Experience {: .section-title}
-* **🎓 Sept 2022 - May 2023**  
-  Campus Ambassador at Unidash India
-* **✍️ May 2023 - Apr 2023**  
-  Content Writer at College Dunia
-* **👥 Nov 2022 - Jan 2023**  
-  Community Influencing at InAmigos Foundation
+### Cybersecurity
+- Kali Linux, Wireshark
+- Burp Suite, Metasploit
+- Network Security
+- Malware Analysis
 
-#### Education {: .section-title}
-* **🎓 2022**  
-  B.Tech from D Y Patil International University
-* **🏫 2021**  
-  High School from Elpro International School
-* **📚 2019**  
-  Senior Secondary from Akshara International School
-</div>
-</div>
-</div>
+### Networking
+- TCP/IP Protocols
+- Routing & Switching
+- Subnetting
+- Firewall Configurations
 
-* * *
-
-<div class="services-section" markdown="1">
-## Services {#services}
-
-<div class="services-grid" markdown="1">
-<div class="service-card" markdown="1">
-### 📱 App Development
-I craft innovative and user-friendly apps, bringing ideas to life through seamless coding and captivating design. Empowering your digital vision.
-
-[Learn more](#){: .service-link}
-</div>
-
-<div class="service-card" markdown="1">
-### 💻 Web Development
-As a web developer, I create captivating and responsive websites, tailored to your brand's vision, ensuring seamless user experiences.
-
-[Learn more](#){: .service-link}
-</div>
-
-<div class="service-card" markdown="1">
-### 🎨 UI/UX Design
-Crafting intuitive interfaces & delightful experiences that elevate user engagement & satisfaction, enhancing your digital product's success.
-
-[Learn more](#){: .service-link}
-</div>
+### Tools & Platforms
+- Virtual Machines (VirtualBox, VMware)
+- Debugging Tools
+- Figma
+- Postman
 </div>
 </div>
 
 * * *
 
-<div class="portfolio-section" markdown="1">
-## Portfolio {#portfolio}
+<div class="projects-section" markdown="1">
+## Featured Projects {#projects}
 
-<div class="portfolio-grid" markdown="1">
+<div class="projects-grid" markdown="1">
 <div class="project-card" markdown="1">
-### Helicopter Game
-![Helicopter Game](./images/work-1.jpeg){: .project-img}
+### 🛡️ Malware Detection Tool
+Python-based malware detection system using machine learning. Analyzes file attributes to classify files as benign or malicious. ~85% model accuracy.
 
-Creating a vintage style helicopter game on python using pygames
+**Tech:** Python, Scikit-learn, PyInstaller
 
-[View Project](https://github.com/itskeshwam/helicopter){: .project-link}
+[View Project](#){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
-### The Customizer
-![The Customizer](./images/work-2.png){: .project-img}
+### 🕵️ Fake Account Predictor
+GUI application for identifying fake social media accounts using ML algorithms. ~90% prediction accuracy.
 
-Creating a user-friendly calculator app with that lets you change its appearance according to your preference
+**Tech:** Python, Tkinter, Machine Learning
 
-[View Project](https://itskeshwam.github.io/The-Customizer){: .project-link}
+[View Project](#){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
-### The Event
-![The Event](./images/work-3.png){: .project-img}
+### 🔐 Password Strength Checker
+Real-time password strength assessment tool with GUI interface.
 
-A fully functional website made for a hackathon but never ended up using it ;p
+**Tech:** Python, Regex, Tkinter
 
-[View Project](https://itskeshwam.github.io/TheEvent){: .project-link}
+[View Project](#){: .project-link}
+</div>
+
+<div class="project-card" markdown="1">
+### 🌐 Pet Adoption Site
+Full-stack web application for pet adoption.
+
+**Tech:** HTML, CSS, JavaScript, Flask
+
+[View Project](#){: .project-link}
+</div>
+
+<div class="project-card" markdown="1">
+### 🤖 Robotic Arm Automation
+Arduino-based robotic arm control system.
+
+**Tech:** Arduino Uno, Servo Motors
+
+[View Project](#){: .project-link}
+</div>
+
+<div class="project-card" markdown="1">
+### 📊 Visitor Counter
+IoT-based visitor counting system with automated lighting.
+
+**Tech:** ESP32, MicroPython, Sensors
+
+[View Project](#){: .project-link}
 </div>
 </div>
 
 [See more projects](https://github.com/itskeshwam?tab=repositories){: .btn .see-more-btn}
+</div>
+
+* * *
+
+<div class="achievements-section" markdown="1">
+## Achievements & Certifications
+
+<div class="achievements-grid" markdown="1">
+### Competitions
+- NASA Space Apps Challenge 2023
+- Greater Good Challenge 2023 (Columbia University)
+- Head of B.R.A.I.N, Venn Club
+- Chief Editor, Scinion: Minions of Science
+
+### Recent Certifications
+- Introduction to Cybersecurity (Cisco)
+- Cybersecurity Fundamentals (IBM SkillsBuild)
+- Foundations of Cybersecurity (Google)
+- Network Security Fundamentals (NASBA)
+- Mastercard Cybersecurity Job Simulation
+</div>
 </div>
 
 * * *
@@ -135,9 +163,8 @@ A fully functional website made for a hackathon but never ended up using it ;p
 ### Connect With Me
 <div class="social-links" markdown="1">
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)](https://github.com/itskeshwam)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itskeshwam/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/itskeshwam/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLZfHwKhHTFqMkqmCqsfvDDmTcdMnbzDvsKhWTgJjJmsGRZqZlFNNHVKBhlQzrwNwBJq)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeykeshwam1122@gmail.com)
 </div>
 
 [Download CV](./images/my-cv.pdf){: .btn .cv-btn}
@@ -158,5 +185,5 @@ A fully functional website made for a hackathon but never ended up using it ;p
 * * *
 
 <div class="footer" markdown="1">
-Copyright © 2023 Keshwam Pandey. Made with ❤️ by Keshwam Pandey
+Copyright © 2024 Keshwam Pandey. Made with ❤️ by Keshwam Pandey
 </div>

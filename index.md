@@ -1,123 +1,119 @@
 ---
 layout: default
+title: Personal Portfolio Website
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Keshwam Pandey
+## Software Engineer from India
 
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
+[Home](#home) | [About](#about) | [Services](#services) | [Portfolio](#portfolio) | [Contact](#contact)
 
 * * *
 
-### Here is an unordered list:
+## About Me {#about}
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+![Profile Photo](./images/user.jpg)
 
-### And an ordered list:
+Every brand has a story behind it - whether that is one that leaves customers feeling informed and educated, or one that sparks joy and delight. I'm passionate about not only defining and articulating that story, but also developing my mind and myself which companies can utilize to tell that story and maximize their reach.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+We're living in an exhilarating time where you can reach millions of people through so many different channels. That being said, to build a brand, you need to identify the right audience and craft the right story.
 
-### And a nested list:
+I'm currently freelancing and I'm open to new opportunities. Please feel free to get in touch with me on pandeykeshwam1122@gmail.com and we can explore how I can help.
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+### Skills
+* **Software Development**  
+  Designing Software interfaces
+* **Web Development**  
+  Web app Development
+* **App Development**  
+  Building Android/iOS apps
 
-### Small image
+### Experience
+* **Sept 2022 - May 2023**  
+  Campus Ambassador at Unidash India
+* **May 2023 - Apr 2023**  
+  Content Writer at College Dunia
+* **Nov 2022 - Jan 2023**  
+  Community Influencing at InAmigos Foundation
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+### Education
+* **2022**  
+  B.Tech from D Y Patil International University
+* **2021**  
+  High School from Elpro International School
+* **2019**  
+  Senior Secondary from Akshara International School
 
-### Large image
+* * *
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Services {#services}
 
+### App Development
+I craft innovative and user-friendly apps, bringing ideas to life through seamless coding and captivating design. Empowering your digital vision.
 
-### Definition lists can be used with HTML syntax.
+[Learn more](#)
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+### Web Development
+As a web developer, I create captivating and responsive websites, tailored to your brand's vision, ensuring seamless user experiences.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+[Learn more](#)
 
-```
-The final element.
-```
+### UI/UX Design
+Crafting intuitive interfaces & delightful experiences that elevate user engagement & satisfaction, enhancing your digital product's success.
+
+[Learn more](#)
+
+* * *
+
+## Portfolio {#portfolio}
+
+### Helicopter Game
+![Helicopter Game](./images/work-1.jpeg)
+
+Creating a vintage style helicopter game on python using pygames
+
+[View Project](https://github.com/itskeshwam/helicopter)
+
+### The Customizer
+![The Customizer](./images/work-2.png)
+
+Creating a user-friendly calculator app with that lets you change its appearance according to your preference
+
+[View Project](https://itskeshwam.github.io/The-Customizer)
+
+### The Event
+![The Event](./images/work-3.png)
+
+A fully functional website made for a hackathon but never ended up using it ;p
+
+[View Project](https://itskeshwam.github.io/TheEvent)
+
+[See more projects](https://github.com/itskeshwam?tab=repositories){: .btn}
+
+* * *
+
+## Contact {#contact}
+
+Email: pandeykeshwam1122@gmail.com  
+Phone: +91 90285 33080
+
+### Social Links
+* [GitHub](https://github.com/itskeshwam)
+* [Instagram](https://www.instagram.com/itskeshwam/)
+* [LinkedIn](https://www.linkedin.com/in/itskeshwam/)
+* [Email](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJNsLZfHwKhHTFqMkqmCqsfvDDmTcdMnbzDvsKhWTgJjJmsGRZqZlFNNHVKBhlQzrwNwBJq)
+
+[Download CV](./images/my-cv.pdf){: .btn}
+
+### Get in Touch
+
+<form action="https://formspree.io/f/xdovqjlg" method="POST">
+  <p><input type="text" name="Name" placeholder="Your Name" required></p>
+  <p><input type="email" name="Email" placeholder="Your Email" required></p>
+  <p><textarea name="Message" rows="6" placeholder="Your Message"></textarea></p>
+  <p><button type="submit" class="btn">Submit</button></p>
+</form>
+
+* * *
+
+Copyright © 2023 Keshwam Pandey. Made with ♥ by Keshwam Pandey

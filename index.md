@@ -5,8 +5,8 @@ description: Cybersecurity & Software Development Portfolio
 ---
 
 <div class="intro-header" markdown="1">
-# Keshwam Pandey {.name-title}
-## Cybersecurity & Software Development Student {.subtitle}
+# Keshwam Pandey 
+## Cybersecurity & Software Development Student 
 
 [Home](#home){: .nav-link} | [About](#about){: .nav-link} | [Skills](#skills){: .nav-link} | [Projects](#projects){: .nav-link} | [Contact](#contact){: .nav-link}
 </div>
@@ -41,10 +41,10 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering, focusing o
 
 <div class="skills-grid" markdown="1">
 ### Programming & Development
-- Python, Shell Script, Go, Rust
+- Python, MySQL, Shell Script, Go, Rust
 - HTML, CSS, JavaScript
 - React, Flask, Django, Node.js
-- Git, Terminal, API Testing
+- Git, Terminal
 
 ### Cybersecurity
 - Kali Linux, Wireshark
@@ -62,7 +62,6 @@ I'm currently pursuing my B.Tech in Computer Science and Engineering, focusing o
 - Virtual Machines (VirtualBox, VMware)
 - Debugging Tools
 - Figma
-- Postman
 </div>
 </div>
 
@@ -78,7 +77,7 @@ Python-based malware detection system using machine learning. Analyzes file attr
 
 **Tech:** Python, Scikit-learn, PyInstaller
 
-[View Project](#){: .project-link}
+[View Project](https://github.com/itskeshwam/Malware-Detection){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
@@ -87,7 +86,7 @@ GUI application for identifying fake social media accounts using ML algorithms. 
 
 **Tech:** Python, Tkinter, Machine Learning
 
-[View Project](#){: .project-link}
+[View Project](https://github.com/itskeshwam/fake-account-predictor){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
@@ -96,16 +95,16 @@ Real-time password strength assessment tool with GUI interface.
 
 **Tech:** Python, Regex, Tkinter
 
-[View Project](#){: .project-link}
+[View Project](https://github.com/itskeshwam/password-strength-checker){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
 ### 🌐 Pet Adoption Site
 Full-stack web application for pet adoption.
 
-**Tech:** HTML, CSS, JavaScript, Flask
+**Tech:** HTML, CSS, JavaScript, Flask, MySQL
 
-[View Project](#){: .project-link}
+[View Project](https://github.com/itskeshwam/pet-adoption){: .project-link}
 </div>
 
 <div class="project-card" markdown="1">
@@ -137,17 +136,17 @@ IoT-based visitor counting system with automated lighting.
 
 <div class="achievements-grid" markdown="1">
 ### Competitions
-- NASA Space Apps Challenge 2023
+- NASA Space Apps Challenge 2023 
 - Greater Good Challenge 2023 (Columbia University)
 - Head of B.R.A.I.N, Venn Club
 - Chief Editor, Scinion: Minions of Science
 
 ### Recent Certifications
-- Introduction to Cybersecurity (Cisco)
-- Cybersecurity Fundamentals (IBM SkillsBuild)
-- Foundations of Cybersecurity (Google)
-- Network Security Fundamentals (NASBA)
-- Mastercard Cybersecurity Job Simulation
+- Introduction to Cybersecurity (Cisco) [{Link}](https://www.credly.com/badges/d512917a-1823-494d-86a3-ce3dc3ce5763/public_url)
+- Cybersecurity Fundamentals (IBM SkillsBuild) [{Link}](https://www.credly.com/badges/141477c4-6ade-4099-96f6-02b4aa6b459c/public_url)
+- Foundations of Cybersecurity (Google) [{Link}](https://www.coursera.org/account/accomplishments/verify/6NWYG18DJWCB)
+- Network Security Fundamentals (NASBA) [{Link}](https://www.linkedin.com/learning/certificates/f64971c0516d348bb065502f6fd39cc776562050a0bd56652a0473cb5cd1a921)
+- Mastercard Cybersecurity Job Simulation [{Link}](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/mastercard/vcKAB5yYAgvemepGQ_Mastercard_WDdskKe2GJMRAPoCe_1716973741895_completion_certificate.pdf)
 </div>
 </div>
 
